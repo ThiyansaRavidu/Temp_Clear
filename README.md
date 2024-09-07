@@ -39,12 +39,12 @@ The Cool Cleanup Utility is a Python-based application designed to help clean up
     cd Win-Temp-Clear
 
 3. **Run the script using the command:**
-  ```bash
+   ```bash
     python Temp Clear.py
-
+         
 **Using the Interface:**
 
-- The application window will appear with a "Start Cleanup" button.
+- The application window will appear with a "**Start Cleanup**" button.
 - Click the "Start Cleanup" button to begin the cleanup process.
 - The status area will display the progress of each cleanup task as it is executed.
 
