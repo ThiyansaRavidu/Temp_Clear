@@ -1,22 +1,34 @@
-# Windows System Cleanup Script
+# Cool Cleanup Utility
 
-This batch script automates the process of removing temporary files, cached data, and other unnecessary files from a Windows system. It helps optimize disk space and improve system performance by cleaning up cluttered files and directories.
+## Overview
 
-## Features:
-- Removes temporary files from the system's temporary directory and user's temporary directory.
-- Empties the Recycle Bin to permanently delete deleted files.
-- Cleans up Windows Update files and other system-related caches.
-- Deletes downloaded program files and offline web pages to free up space.
-- Removes previous Windows installations and system restore points.
+The Cool Cleanup Utility is a Python-based application designed to help clean up temporary files and system junk from your Windows machine. It provides a graphical interface to execute various cleanup tasks and monitor their progress.
 
-## Usage:
-1. **Download the script**: Download the script and save it with a `.bat` extension on your Windows system.
-2. **Run the script**: Run the script with administrative privileges by right-clicking on it and selecting "Run as administrator."
-3. **Follow the prompts**: Follow the on-screen prompts to execute the cleanup process.
+## Features
 
-## Note:
-- This script performs operations that require administrative privileges. Make sure to run it with elevated permissions to avoid any issues.
-- Review the script and understand the operations it performs before executing it to ensure it meets your requirements.
+- **Remove Temporary Files**: Deletes files from the TEMP directory.
+- **Empty Recycle Bin**: Clears all items from the Recycle Bin.
+- **Remove System Files**: Cleans up system files using `cleanmgr`.
+- **Remove Windows Update Cleanup**: Deletes old Windows Update files.
+- **Remove Thumbnails**: Clears thumbnail cache files.
+- **Remove Temporary Internet Files**: Removes files from Internet Cache.
+- **Remove Delivery Optimization Files**: Deletes downloaded update files.
+- **Remove Downloaded Program Files**: Clears downloaded program files.
+- **Remove Offline Web Pages**: Deletes offline web pages.
+- **Remove DirectX Shader Cache**: Clears DirectX shader cache files.
+- **Remove Previous Windows Installations**: Cleans up previous Windows installation files.
+- **Remove Temporary Files from Apps**: Deletes temporary files created by apps.
+- **Remove System Restore Points**: Deletes all system restore points.
+- **Remove C:\Windows\Temp Folder**: Clears the Windows Temp folder.
 
-## Disclaimer:
-This script is provided as-is without any warranties. Use it at your own risk. The author is not responsible for any damage or data loss caused by the misuse of this script.
+## Requirements
+
+- Python 3.x
+- Tkinter library (comes with Python standard library)
+- Administrator privileges (for certain cleanup tasks)
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ThiyansaRavidu/Cool-Cleanup-Utility.git
