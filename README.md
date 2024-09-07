@@ -31,4 +31,25 @@ The Cool Cleanup Utility is a Python-based application designed to help clean up
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ThiyansaRavidu/Cool-Cleanup-Utility.git
+   git clone https://github.com/ThiyansaRavidu/Win-Temp-Clear.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+    cd Win-Temp-Clear
+
+3. **Run the script using the command:**
+  ```bash
+    python Temp Clear.py
+
+**Using the Interface:**
+
+- The application window will appear with a "Start Cleanup" button.
+- Click the "Start Cleanup" button to begin the cleanup process.
+- The status area will display the progress of each cleanup task as it is executed.
+
+**Monitoring Progress:**
+
+- The status area will show the description of each task as it starts.
+- Once a task is completed, a checkmark (✔) will indicate success, or a cross (✘) will indicate failure.
+- Continue to monitor the status area for updates until all tasks are completed.
