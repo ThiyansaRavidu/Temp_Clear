@@ -48,9 +48,10 @@ Here’s a list of commands available in KUDDA.exe:
 
 ## Installation
 
-1. **Download the KUDDA.exe** from the [releases page](https://github.com/ThiyansaRavidu/Win-Temp-Clear/releases).
-2. Ensure you have Python installed on your system if you want to run the source code.
-3. Run `KUDDA.exe` to launch the application.
+1. Fist Install [Python](https://www.python.org/downloads/windows/)
+2. **Download the KUDDA.exe** from the [releases page](https://github.com/ThiyansaRavidu/Win-Temp-Clear/releases).
+3. Ensure you have Python installed on your system if you want to run the source code.
+4. Run `KUDDA.exe` to launch the application.
 
 ## Usage
 
