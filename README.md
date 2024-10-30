@@ -59,16 +59,6 @@ Here’s a list of commands available in KUDDA.exe:
 3. Click a button to execute the command. You will receive a confirmation prompt before the command runs.
 4. Enjoy a more optimized Windows experience!
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -80,7 +70,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For inquiries, please reach out at [Coming Soonil@example.com].
+For inquiries, please reach out at [Coming Soon](ComingSoon).
 
 ---
 
