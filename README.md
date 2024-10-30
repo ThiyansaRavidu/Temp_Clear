@@ -1,7 +1,5 @@
 # WIndows SpeedUP - Windows Optimization Commands Tool
 
-![KUDDA Logo](resources/logo.png)
-
 ## Overview
 
 KUDDA.exe is a user-friendly Windows optimization tool designed to streamline common system maintenance tasks through a graphical interface built with Tkinter. It provides easy access to various system commands, helping you to optimize your Windows experience with just a click!
